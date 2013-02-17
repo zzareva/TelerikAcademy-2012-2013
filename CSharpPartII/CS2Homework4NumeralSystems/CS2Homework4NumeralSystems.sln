@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01DecimalToBinaryConversion", "P01DecimalToBinaryConversion\P01DecimalToBinaryConversion.csproj", "{195E6C33-9D22-47A3-9101-ECCC0C321F94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02BinaryToDecimal", "P02BinaryToDecimal\P02BinaryToDecimal.csproj", "{09671184-9EBE-4961-9DA1-34516FB9EA8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03DecimalToHexadecimal", "P03DecimalToHexadecimal\P03DecimalToHexadecimal.csproj", "{C1EA74CE-837C-4F4D-B64E-081AE98BA4B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04HexadecimalToDecimal", "P04HexadecimalToDecimal\P04HexadecimalToDecimal.csproj", "{95CCD576-FE29-42D1-BE8F-26CEA76770D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05HexadecimalToBinary", "P05HexadecimalToBinary\P05HexadecimalToBinary.csproj", "{A0A42D75-D0F3-4DB7-8EA8-EAAD3106ED87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06BinaryToHexadecimal", "P06BinaryToHexadecimal\P06BinaryToHexadecimal.csproj", "{3006A6B4-3FB0-496E-94F7-8F4C506F2DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07ConvertToAnyNumericalSystem", "P07ConvertToAnyNumericalSystem\P07ConvertToAnyNumericalSystem.csproj", "{0D0780B5-5B90-424D-915C-FB6A4B8C6319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P8ShortBinaryRepresentation", "P8ShortBinaryRepresentation\P8ShortBinaryRepresentation.csproj", "{FE996887-D75B-40DB-9681-D8CECDB34C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195E6C33-9D22-47A3-9101-ECCC0C321F94}.Debug|x86.ActiveCfg = Debug|x86
+		{195E6C33-9D22-47A3-9101-ECCC0C321F94}.Debug|x86.Build.0 = Debug|x86
+		{195E6C33-9D22-47A3-9101-ECCC0C321F94}.Release|x86.ActiveCfg = Release|x86
+		{195E6C33-9D22-47A3-9101-ECCC0C321F94}.Release|x86.Build.0 = Release|x86
+		{09671184-9EBE-4961-9DA1-34516FB9EA8A}.Debug|x86.ActiveCfg = Debug|x86
+		{09671184-9EBE-4961-9DA1-34516FB9EA8A}.Debug|x86.Build.0 = Debug|x86
+		{09671184-9EBE-4961-9DA1-34516FB9EA8A}.Release|x86.ActiveCfg = Release|x86
+		{09671184-9EBE-4961-9DA1-34516FB9EA8A}.Release|x86.Build.0 = Release|x86
+		{C1EA74CE-837C-4F4D-B64E-081AE98BA4B0}.Debug|x86.ActiveCfg = Debug|x86
+		{C1EA74CE-837C-4F4D-B64E-081AE98BA4B0}.Debug|x86.Build.0 = Debug|x86
+		{C1EA74CE-837C-4F4D-B64E-081AE98BA4B0}.Release|x86.ActiveCfg = Release|x86
+		{C1EA74CE-837C-4F4D-B64E-081AE98BA4B0}.Release|x86.Build.0 = Release|x86
+		{95CCD576-FE29-42D1-BE8F-26CEA76770D7}.Debug|x86.ActiveCfg = Debug|x86
+		{95CCD576-FE29-42D1-BE8F-26CEA76770D7}.Debug|x86.Build.0 = Debug|x86
+		{95CCD576-FE29-42D1-BE8F-26CEA76770D7}.Release|x86.ActiveCfg = Release|x86
+		{95CCD576-FE29-42D1-BE8F-26CEA76770D7}.Release|x86.Build.0 = Release|x86
+		{A0A42D75-D0F3-4DB7-8EA8-EAAD3106ED87}.Debug|x86.ActiveCfg = Debug|x86
+		{A0A42D75-D0F3-4DB7-8EA8-EAAD3106ED87}.Debug|x86.Build.0 = Debug|x86
+		{A0A42D75-D0F3-4DB7-8EA8-EAAD3106ED87}.Release|x86.ActiveCfg = Release|x86
+		{A0A42D75-D0F3-4DB7-8EA8-EAAD3106ED87}.Release|x86.Build.0 = Release|x86
+		{3006A6B4-3FB0-496E-94F7-8F4C506F2DE5}.Debug|x86.ActiveCfg = Debug|x86
+		{3006A6B4-3FB0-496E-94F7-8F4C506F2DE5}.Debug|x86.Build.0 = Debug|x86
+		{3006A6B4-3FB0-496E-94F7-8F4C506F2DE5}.Release|x86.ActiveCfg = Release|x86
+		{3006A6B4-3FB0-496E-94F7-8F4C506F2DE5}.Release|x86.Build.0 = Release|x86
+		{0D0780B5-5B90-424D-915C-FB6A4B8C6319}.Debug|x86.ActiveCfg = Debug|x86
+		{0D0780B5-5B90-424D-915C-FB6A4B8C6319}.Debug|x86.Build.0 = Debug|x86
+		{0D0780B5-5B90-424D-915C-FB6A4B8C6319}.Release|x86.ActiveCfg = Release|x86
+		{0D0780B5-5B90-424D-915C-FB6A4B8C6319}.Release|x86.Build.0 = Release|x86
+		{FE996887-D75B-40DB-9681-D8CECDB34C5D}.Debug|x86.ActiveCfg = Debug|x86
+		{FE996887-D75B-40DB-9681-D8CECDB34C5D}.Debug|x86.Build.0 = Debug|x86
+		{FE996887-D75B-40DB-9681-D8CECDB34C5D}.Release|x86.ActiveCfg = Release|x86
+		{FE996887-D75B-40DB-9681-D8CECDB34C5D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

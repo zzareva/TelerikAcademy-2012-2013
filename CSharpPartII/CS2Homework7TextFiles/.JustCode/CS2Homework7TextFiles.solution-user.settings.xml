@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="59817d3d-b458-4d58-9efb-bfadb448fcd1">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings>
+      <FilePath>
+        <Path>C:\Users\zzareva\Documents\Visual Studio 2010\Projects\CS2Homework7TextFiles\P10ExtractXMLData\ExtractXMLData.cs</Path>
+        <ProjectFullName>C:\Users\zzareva\Documents\Visual Studio 2010\Projects\CS2Homework7TextFiles\P10ExtractXMLData\P10ExtractXMLData.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>7</Column>
+          <Text>Type name does not match file name</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>7</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

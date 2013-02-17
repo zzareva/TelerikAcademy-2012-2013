@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01LeapYear", "P01LeapYear\P01LeapYear.csproj", "{634B1C85-7355-43EA-AE91-2CA8B2355D66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02RandomNumbers", "P02RandomNumbers\P02RandomNumbers.csproj", "{6ABD2717-2A15-4F73-8DB8-F290A5B225C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03PrintDay", "P03PrintDay\P03PrintDay.csproj", "{DCD0BAE2-37E9-4F95-8E11-CCE7EB21FE8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04TriangleSurface", "P04TriangleSurface\P04TriangleSurface.csproj", "{B120B42D-6476-42EC-BF9F-CAD726E61523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05CalculateNumberOfWorkDays", "P05CalculateNumberOfWorkDays\P05CalculateNumberOfWorkDays.csproj", "{64D3FEBE-30ED-415B-A9E8-BA54E0B46868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06CalculateSumOfPositiveNumbers", "P06CalculateSumOfPositiveNumbers\P06CalculateSumOfPositiveNumbers.csproj", "{6B1DC053-8C3B-4DB1-A05C-631AE4044D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{634B1C85-7355-43EA-AE91-2CA8B2355D66}.Debug|x86.ActiveCfg = Debug|x86
+		{634B1C85-7355-43EA-AE91-2CA8B2355D66}.Debug|x86.Build.0 = Debug|x86
+		{634B1C85-7355-43EA-AE91-2CA8B2355D66}.Release|x86.ActiveCfg = Release|x86
+		{634B1C85-7355-43EA-AE91-2CA8B2355D66}.Release|x86.Build.0 = Release|x86
+		{6ABD2717-2A15-4F73-8DB8-F290A5B225C7}.Debug|x86.ActiveCfg = Debug|x86
+		{6ABD2717-2A15-4F73-8DB8-F290A5B225C7}.Debug|x86.Build.0 = Debug|x86
+		{6ABD2717-2A15-4F73-8DB8-F290A5B225C7}.Release|x86.ActiveCfg = Release|x86
+		{6ABD2717-2A15-4F73-8DB8-F290A5B225C7}.Release|x86.Build.0 = Release|x86
+		{DCD0BAE2-37E9-4F95-8E11-CCE7EB21FE8A}.Debug|x86.ActiveCfg = Debug|x86
+		{DCD0BAE2-37E9-4F95-8E11-CCE7EB21FE8A}.Debug|x86.Build.0 = Debug|x86
+		{DCD0BAE2-37E9-4F95-8E11-CCE7EB21FE8A}.Release|x86.ActiveCfg = Release|x86
+		{DCD0BAE2-37E9-4F95-8E11-CCE7EB21FE8A}.Release|x86.Build.0 = Release|x86
+		{B120B42D-6476-42EC-BF9F-CAD726E61523}.Debug|x86.ActiveCfg = Debug|x86
+		{B120B42D-6476-42EC-BF9F-CAD726E61523}.Debug|x86.Build.0 = Debug|x86
+		{B120B42D-6476-42EC-BF9F-CAD726E61523}.Release|x86.ActiveCfg = Release|x86
+		{B120B42D-6476-42EC-BF9F-CAD726E61523}.Release|x86.Build.0 = Release|x86
+		{64D3FEBE-30ED-415B-A9E8-BA54E0B46868}.Debug|x86.ActiveCfg = Debug|x86
+		{64D3FEBE-30ED-415B-A9E8-BA54E0B46868}.Debug|x86.Build.0 = Debug|x86
+		{64D3FEBE-30ED-415B-A9E8-BA54E0B46868}.Release|x86.ActiveCfg = Release|x86
+		{64D3FEBE-30ED-415B-A9E8-BA54E0B46868}.Release|x86.Build.0 = Release|x86
+		{6B1DC053-8C3B-4DB1-A05C-631AE4044D2D}.Debug|x86.ActiveCfg = Debug|x86
+		{6B1DC053-8C3B-4DB1-A05C-631AE4044D2D}.Debug|x86.Build.0 = Debug|x86
+		{6B1DC053-8C3B-4DB1-A05C-631AE4044D2D}.Release|x86.ActiveCfg = Release|x86
+		{6B1DC053-8C3B-4DB1-A05C-631AE4044D2D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
