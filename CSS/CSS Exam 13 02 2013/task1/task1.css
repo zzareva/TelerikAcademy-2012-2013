@@ -1,0 +1,62 @@
+﻿.clearFix {
+  content: "";
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+.reset {
+  padding: 0;
+  margin: 0;
+}
+* {
+  margin: 0px;
+  padding: 0;
+  font-family: Constantina, Georgia, 'Nimbus Roman No9 L', serif;
+  font-size: 16px;
+}
+body {
+  width: 960px;
+}
+div#wrapper {
+  margin: 25px;
+}
+div#wrapper div {
+  border: 1px solid black;
+  border-radius: 13px;
+  padding: 16px 32px 35px 35px ;
+  height: 157px;
+  width: 866px;
+  background-color: #de28ff;
+  background: -webkit-linear-gradient(top, #de28ff, #f9dbff);
+  background: -moz-linear-gradient(top, #de28ff, #f9dbff);
+  background: -ms-linear-gradient(top, #de28ff, #f9dbff);
+  background: -o-linear-gradient(top, #de28ff, #f9dbff);
+  position: relative;
+}
+div#wrapper div h1 {
+  font-weight: bold;
+  font-size: 1.8em;
+  margin-bottom: 4px;
+}
+div#wrapper div img.left-arrow {
+  position: absolute;
+  top: 83px;
+  left: 0px;
+}
+div#wrapper div img.right-arrow {
+  position: absolute;
+  top: 83px;
+  left: 901px;
+}
+div#wrapper div p.postedby {
+  margin-left: 16px;
+  margin-bottom: 25px;
+  width: 366px;
+  padding: 5px 16px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+div#wrapper div p.info {
+  text-align: justify;
+  width: 864px;
+}

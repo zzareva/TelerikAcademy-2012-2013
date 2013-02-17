@@ -1,0 +1,47 @@
+body {
+background-color: #fff;
+font-size: 10px;
+}
+table {
+border: 0px;
+font-family: Verdana;
+font-size: 1.5em;
+background-color: #595959;
+color:#E6E5D1;
+font-weight: normal;
+width:350px;
+}
+table th {
+text-align:left;
+font-size: 1.2em;
+font-weight:normal;
+color: #ACB1AA;
+padding:3px;
+}
+td.heading {
+font-style:italic;
+}
+td:not(.heading) {
+color:#A2A2A2;
+}
+a:link {
+text-decoration: none;
+color:#E7E5B4;
+}
+a:visited {
+text-decoration: none;
+color:#E7E5B4;
+}
+
+#name {
+color:#E7E5B4;
+}
+#name:before {
+content: url(greenDot.png);
+}
+#supportStatus {
+color:#F00;
+}
+#answer{
+  color:#D96830;
+}

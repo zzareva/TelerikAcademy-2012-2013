@@ -1,0 +1,76 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	font-family:Verdana;
+	width: 700px;
+	height: 700px;
+}
+section{
+	border: 2px solid #343434;
+	padding-left: 3px;
+	width:416px;
+	height: 380px;
+	float: left;
+	margin: 5px;
+}
+nav{
+	display:block;
+	width:90%;
+	border-bottom: 2px solid #343434;
+	padding:0.5em;
+	margin: 0px 10px;
+	text-align:center;
+	font-weight: bold;
+}
+nav ul li{
+	display:inline;
+	padding:0.2em;
+	}
+nav ul li a{
+	color:#00A7EF;
+}
+fieldset{
+	margin-right: 5px;
+	border: 2px solid #343434;
+	text-align: left;
+	float: left;
+	font-family: Candara;
+	font-size: 17px;
+	color: #343434;
+}
+fieldset legend{
+	text-align: center;
+	margin: 2px 25px;
+	padding: 0 5px;
+}
+fieldset img {
+	float: left;
+	padding:5px;
+}
+fieldset div.description{
+	margin-top: 15px;
+	line-height: 1.5em;
+}
+fieldset div:first-child{
+	margin-top: 1.1em;
+}
+fieldset div span {
+	margin-top: 15px;
+	padding:15px 10px;
+}
+aside{
+	float: left;
+	width: 200px;
+	margin:30px;
+	font-size: 1.3em;
+	font-family: Candara;
+}
+aside div{
+	margin-top: 12px;
+}
+aside div span{
+	margin-right: 7px;
+	text-align: center;
+}

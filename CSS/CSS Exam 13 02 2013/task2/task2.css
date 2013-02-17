@@ -1,0 +1,61 @@
+﻿.clearFix {
+  content: "";
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+.reset {
+  padding: 0;
+  margin: 0;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+  font-size: 16px;
+}
+body div#wrapper {
+  margin: 16px;
+  padding: 10px;
+  width: 679px;
+  height: 416px;
+  background: #CCCCCC;
+}
+body div#wrapper div.holder {
+  float: left;
+}
+body div#wrapper div.holder img {
+  display: inline-block;
+  height: 413px;
+  border-radius: 5px;
+}
+body div#wrapper div.playlist {
+  float: right;
+  position: relative;
+  top: .clearFix;
+}
+body div#wrapper div.playlist ul {
+  list-style: none;
+}
+body div#wrapper div.playlist ul li {
+  border-bottom: 1px solid black;
+  padding: 5px 2px;
+}
+body div#wrapper div.playlist ul li img {
+  display: block;
+  margin-left: 8px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+body div#wrapper div.playlist ul li a {
+  text-decoration: none;
+  color: black;
+  display: block;
+  font-weight: bold;
+  line-height: 1.3em;
+}
+body div#wrapper div.playlist ul li a:hover {
+  text-decoration: underline;
+}

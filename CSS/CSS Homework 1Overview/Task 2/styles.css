@@ -1,0 +1,42 @@
+
+body {
+background-color: #fff;
+font-size: 16px;
+color:#000;
+}
+table {
+width: 713px;
+}
+
+table, table td, table th{
+font-family: Arial;
+font-weight: normal;
+border-collapse:collapse;
+text-align: left;
+vertical-align:top;
+padding: 5px 10px;
+}
+table td {
+border-right:2px #CAC9B7 solid;
+}
+table td:last-child{
+border-right:0px;
+}
+table th {
+background-color:#56B906;
+color: #FFF;
+border-bottom: 2px #4C8832 solid;
+border-right: 2px #4C8832 solid;
+}
+table th:last-child{
+border-right:0;
+}
+table tr:nth-child(2n)
+{
+background-color: #EDECD8;
+}
+.promotion{
+width:140px;
+}
+
+

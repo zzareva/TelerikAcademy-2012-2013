@@ -1,0 +1,97 @@
+﻿.clearFix {
+  content: "";
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+.reset {
+  padding: 0;
+  margin: 0;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+  font-size: 16px;
+}
+body div#wrapper {
+  margin: 19px;
+  width: 902px;
+}
+body div#wrapper > div {
+  width: auto;
+  border: 2px solid #D3D7DA;
+  float: left;
+  max-width: 148px;
+  min-height: 261px;
+}
+body div#wrapper > div > hgroup {
+  display: block;
+  height: 45px;
+  padding-left: 45px;
+  margin: 10px 0px;
+}
+body div#wrapper > div > hgroup h2,
+body div#wrapper > div > hgroup h3 {
+  font-size: 1.0em;
+  vertical-align: baseline;
+}
+body div#wrapper > div a {
+  color: red;
+  text-decoration: none;
+}
+body div#wrapper > div a span {
+  text-transform: uppercase;
+}
+body div#wrapper > div p {
+  padding: 2px 5px 4px 6px;
+}
+body div#wrapper > div > div {
+  padding: 2px 15px 4px 6px;
+}
+body div#wrapper > div:nth-child(1) {
+  border-right: 0;
+}
+body div#wrapper > div:nth-child(1) > hgroup {
+  background: 5px 6px url("imgs/install.png") no-repeat;
+}
+body div#wrapper > div:nth-child(2) > hgroup {
+  background: 5px 6px url("imgs/tuneUp.png") no-repeat;
+}
+body div#wrapper > div:nth-child(3) {
+  border-left: 0;
+  border-right: 0;
+}
+body div#wrapper > div:nth-child(3) > hgroup {
+  background: 5px 6px url("imgs/manage.png") no-repeat;
+}
+body div#wrapper > div:nth-child(4) > hgroup {
+  background: 5px 6px url("imgs/openSource.png") no-repeat;
+}
+body div#wrapper > div:nth-child(4) h2 {
+  padding-top: 22px;
+}
+body div#wrapper > div:nth-child(5) {
+  border-left: 0;
+  border-right: 0;
+}
+body div#wrapper > div:nth-child(5) > div.yellowBox {
+  border: 1px solid #FFFF00;
+  background: #FFFFDD;
+  margin: 1px 3px 4px 2px;
+  line-height: 14px;
+}
+body div#wrapper > div:nth-child(5) > hgroup {
+  background: 5px 6px url("imgs/twitter.png") no-repeat;
+}
+body div#wrapper > div:nth-child(5) h2 {
+  padding-top: 22px;
+}
+body div#wrapper > div:nth-child(6) > hgroup {
+  background: 5px 6px url("imgs/about.png") no-repeat;
+}
+body div#wrapper > div:nth-child(6) h2 {
+  padding-top: 22px;
+}

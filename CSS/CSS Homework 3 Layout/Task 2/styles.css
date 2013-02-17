@@ -1,0 +1,55 @@
+body {
+	background-color: #000;
+	font-family: Arial;
+	font-size: 13px; 
+	margin:0;
+	padding:0;
+}
+em{
+	font-style:normal;
+	font-weight:bold;
+}
+section{
+	background:#eee;
+	border-radius:10px;
+	display:inline-block;
+	margin:50px;
+	padding:10px 15px;
+}
+section header h1{
+	font-size:1.4em;
+	font-family:"Arial Narrow";
+	font-weight:normal;
+	margin-bottom:45px;
+}
+button {
+    background: url('button.png');
+    height: 24px;
+    color: white;
+    padding-left: 16px;
+    margin-top: 10px;
+	font-size: 0.9em;
+    }
+button:hover {
+	cursor: pointer;
+}
+article {
+	background-color: white;
+    border: 1px solid #b3b3b3;
+    width: 340px;
+    text-align: right;
+    padding: 16px;
+    margin: 16px 0 16px 0;
+    overflow: hidden;
+}
+
+article img {
+    float: left;
+    text-wrap: normal;
+    margin: 0 16px 0 0;
+    border: 1px solid #b3b3b3;    
+}
+article div {
+    text-align: left;
+}
+
